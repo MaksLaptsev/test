@@ -1,2 +1,4 @@
-package testplugin;public class Test {
+package testplugin;
+
+public class Test {
 }
